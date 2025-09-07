@@ -4,8 +4,8 @@
 <!-- Hi, I'm Annemarie -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=Annemarie%20Spiller&textBg=false&fontSize=55&fontColor=ffffff&desc=Developer%20|%20Artist%20|%20Leader&descAlignY=65">
-    <img src="https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=Annemarie%20Spiller&textBg=false&fontSize=55&fontColor=000000&desc=Developer%20|%20Artist%20|%20Leader&descAlignY=65">
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=Annemarie%20Spiller&textBg=false&fontSize=55&fontColor=ffffff&desc=Developer%20|%20Artist%20|%20Leader&descAlignY=70">
+    <img src="https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=Annemarie%20Spiller&textBg=false&fontSize=55&fontColor=000000&desc=Developer%20|%20Artist%20|%20Leader&descAlignY=70">
   </picture>
 </div>
 
