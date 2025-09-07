@@ -1,13 +1,20 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
+<!-- Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=timeGradient&section=header"/>
 
+<!-- ![blur](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Hi,%20I'm%20Annemarie&strokeWidth=2&section=footer&reversal=true&fontAlign=50&stroke=E0E0E0&fontSize=55&textBg=false) -->
+<!-- ![blur](https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=Hi,%20I'm%20Annemarie&textBg=false&fontSize=50&fontAlignY=50&fontColor=4CBAAC) -->
+
+<!-- Hi, I'm Annemarie -->
 <div align="center">
-  
-# 👋 Hi there, I'm Annemarie
+
+![blur](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Hi,%20I'm%20Annemarie&textBg=false&fontSize=55)
+
+</div>
+
 
 ---
 
-## 🏆 My Trophies
-
+<!-- GitHub Trophies -->
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AnnemarieSpiller&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=8" />
 </div>
@@ -17,9 +24,11 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/annemarie-spiller)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_annemarieart)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://annemarie-art.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:annemarie@annemarie-art.com)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/annemarie-spiller)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/_annemarieart)
+[![Email](https://skillicons.dev/icons?i=gmail)](mailto:aspiller2008@gmail.com)
 
 </div>
+
+<!-- Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=timeGradient&section=footer"/>
