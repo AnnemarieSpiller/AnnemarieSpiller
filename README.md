@@ -6,7 +6,11 @@
 
 <!-- Hi, I'm Annemarie -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Hi,%20I'm%20Annemarie&textBg=false&fontSize=55" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Hi,%20I'm%20Annemarie&textBg=false&fontSize=55">
+  <source media="(prefers-color-scheme: light)" src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Hi,%20I'm%20Annemarie&textBg=false&fontSize=55&fontColor=000000">
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Hi%20I'm%20Annemarie&textBg=false&fontSize=55">
+</picture>
 </div>
 
 ---
