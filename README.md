@@ -6,11 +6,19 @@
 
 <!-- Hi, I'm Annemarie -->
 <div align="center">
-
-![blur](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Hi,%20I'm%20Annemarie&textBg=false&fontSize=55)
-
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Hi,%20I'm%20Annemarie&textBg=false&fontSize=55" />
 </div>
 
+---
+
+<!-- Socials -->
+<div align="center">
+  
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/annemarie-spiller)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/_annemarieart)
+[![Email](https://skillicons.dev/icons?i=gmail)](mailto:aspiller2008@gmail.com)
+
+</div>
 
 ---
 
@@ -21,14 +29,6 @@
 
 
 ---
-
-<div align="center">
-  
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/annemarie-spiller)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/_annemarieart)
-[![Email](https://skillicons.dev/icons?i=gmail)](mailto:aspiller2008@gmail.com)
-
-</div>
 
 <!-- Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=timeGradient&section=footer"/>
