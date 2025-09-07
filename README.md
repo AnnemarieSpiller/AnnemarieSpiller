@@ -1,14 +1,11 @@
 <!-- Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=timeGradient&section=header"/>
 
-<!-- ![blur](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Hi,%20I'm%20Annemarie&strokeWidth=2&section=footer&reversal=true&fontAlign=50&stroke=E0E0E0&fontSize=55&textBg=false) -->
-<!-- ![blur](https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=Hi,%20I'm%20Annemarie&textBg=false&fontSize=50&fontAlignY=50&fontColor=4CBAAC) -->
-
 <!-- Hi, I'm Annemarie -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Hi,%20I'm%20Annemarie&textBg=false&fontSize=55">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Hi,%20I'm%20Annemarie&textBg=false&fontSize=55&fontColor=000000">
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Hi%2C%20I'm%20Annemarie&textBg=false&fontSize=55&fontColor=ffffff">
+    <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Hi%2C%20I'm%20Annemarie&textBg=false&fontSize=55&fontColor=000000">
 </picture>
 </div>
 
