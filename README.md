@@ -13,25 +13,17 @@
 
 <!-- Socials -->
 <div align="center">
-  <a href="https://linkedin.com/in/annemarie-spiller">
-    <img width="15%" src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Flinkedin.com%2Fin%2Fannemarie-spiller&subtitle=%40Annemarie+Spiller&size=square" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/_annemarieart">
-    <img width="15%" src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Finstagram.com%2F_annemarieart&subtitle=%40_annemarieart&size=square" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:aspiller2008@gmail.com">
-    <img width="15%" src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=aspiller2008%40gmail.com&subtitle=aspiller2008%40gmail.com&size=square" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="annemarie-art.com">
-    <img width="15%" src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwordpress&subtitle=annemarie-art.com&size=square" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://drive.google.com/file/d/1Mg-PwIVy5GmNDb3ZopdJ_Gps3mgg0oED/view?usp=sharing">
-    <img width="15%" src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigoogledocs&subtitle=Resume&size=square" />
-  </a>
+  
+  [![LinkedIn](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Flinkedin.com%2Fin%2Fannemarie-spiller&subtitle=%40Annemarie+Spiller&size=square)](https://linkedin.com/in/annemarie-spiller)
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  [![Instagram](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Finstagram.com%2F_annemarieart&subtitle=%40_annemarieart&size=square)](https://instagram.com/_annemarieart)
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  [![Email](https://bentos.jkominovic.dev/api/v1/bento-cards?url=aspiller2008%40gmail.com&subtitle=aspiller2008%40gmail.com&size=square)](mailto:aspiller2008@gmail.com)
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  [![Website](https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwordpress&subtitle=annemarie-art.com&size=square)](annemarie-art.com)
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  [![Resume](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigoogledocs&subtitle=Resume&size=square)](https://drive.google.com/file/d/1Mg-PwIVy5GmNDb3ZopdJ_Gps3mgg0oED/view?usp=sharing)
+  
 </div>
 
 ---
