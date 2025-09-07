@@ -4,14 +4,14 @@
 <!-- Hi, I'm Annemarie -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=Annemarie%20Spiller&textBg=false&fontSize=55&fontColor=ffffff&desc=Developer%20|%20Artist%20|%20Leader&descAlignY=70">
-    <img src="https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=Annemarie%20Spiller&textBg=false&fontSize=55&fontColor=000000&desc=Developer%20|%20Artist%20|%20Leader&descAlignY=70">
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=blur&height=180&color=gradient&text=Annemarie%20Spiller&textBg=false&fontSize=55&fontColor=ffffff&desc=Developer%20|%20Artist%20|%20Leader&descAlignY=70">
+    <img src="https://capsule-render.vercel.app/api?type=blur&height=180&color=gradient&text=Annemarie%20Spiller&textBg=false&fontSize=55&fontColor=000000&desc=Developer%20|%20Artist%20|%20Leader&descAlignY=70">
   </picture>
 </div>
 
 <!-- Roles with Typing Effect -->
 <div align="center">
-  <img width="50%" src="https://readme-typing-svg.herokuapp.com?font=Orbitron&pause=1000&color=1FC2C9&center=true&width=435&lines=App+Developer;Frontend+Developer;Visual+Designer;Entrepreneur;Web+Developer;Multimedia+Creator;Innovator" alt="Typing SVG" />
+  <img width="40%" src="https://readme-typing-svg.herokuapp.com?font=Orbitron&pause=1000&color=1FC2C9&center=true&width=435&lines=App+Developer;Frontend+Developer;Visual+Designer;Entrepreneur;Web+Developer;Multimedia+Creator;Innovator" alt="Typing SVG" />
 </div>
 
 ---
