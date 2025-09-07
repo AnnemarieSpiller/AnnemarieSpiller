@@ -7,9 +7,8 @@
 <!-- Hi, I'm Annemarie -->
 <div align="center">
   <picture>
-  <source media="(prefers-color-scheme: dark)" src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Hi,%20I'm%20Annemarie&textBg=false&fontSize=55">
-  <source media="(prefers-color-scheme: light)" src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Hi,%20I'm%20Annemarie&textBg=false&fontSize=55&fontColor=000000">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Hi%20I'm%20Annemarie&textBg=false&fontSize=55">
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Hi,%20I'm%20Annemarie&textBg=false&fontSize=55">
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Hi,%20I'm%20Annemarie&textBg=false&fontSize=55&fontColor=000000">
 </picture>
 </div>
 
