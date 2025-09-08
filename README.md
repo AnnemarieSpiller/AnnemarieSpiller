@@ -51,12 +51,28 @@
     
 ---
 
+<!-- Languages --> 
+<div align="center">
+  <h1> 🛠️ Languages and Tools </h1>
+</div>
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kotlin,java,js,ts,html,css,py" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,arduino,blender,git,obsidian,ps,pr,unity,visualstudio,vscode" />
+  </a>
+</div>
+
+---
+
 <!-- GitHub Trophies -->
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AnnemarieSpiller&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=8" />
 </div>
 
 ---
+
+
 
 <!-- Profile Views -->
 <div align="center">
