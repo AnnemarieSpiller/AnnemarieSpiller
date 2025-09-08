@@ -59,7 +59,7 @@
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=kotlin,java,js,ts,html,css,py" />
-    <img src="https://skillicons.dev/icons?i=androidstudio,arduino,blender,git,obsidian,ps,pr,unity,visualstudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,visualstudio,vscode,blender,unity,git,ps,pr,arduino" />
   </a>
 </div>
 
